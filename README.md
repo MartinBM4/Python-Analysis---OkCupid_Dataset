@@ -1,3 +1,3 @@
 # Python-Analysis---OkCupid_Dataset
 
-## - Dataset: [OKCUPID](https://github.com/rudeboybert/JSE_OkCupid)
+## - Dataset: [OkCupid_Profile](https://github.com/rudeboybert/JSE_OkCupid)
