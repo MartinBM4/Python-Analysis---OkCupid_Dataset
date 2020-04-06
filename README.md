@@ -10,7 +10,8 @@
 ![](https://github.com/MartinBM4/Python-Analysis---OkCupid_Dataset/blob/master/Markdown_outputs/output_31_0.svg)
 
 - 3.)
-![](https://github.com/MartinBM4/Python-Analysis---OkCupid_Dataset/blob/master/Markdown_outputs/output_35_0.svg)
+
+ ![](https://github.com/MartinBM4/Python-Analysis---OkCupid_Dataset/blob/master/Markdown_outputs/output_35_0.svg)
 
 - 4.)
 ![](https://github.com/MartinBM4/Python-Analysis---OkCupid_Dataset/blob/master/Markdown_outputs/output_51_0.svg)
